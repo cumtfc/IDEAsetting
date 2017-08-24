@@ -6,8 +6,24 @@
           <option name="url" value="ssh://fc@121.248.103.50:29418/aqscfxgl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://admin@121.248.103.50:29418/mryt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://cumtfc@121.248.103.50:29418/mryt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://fc@121.248.103.50:29418/mrytl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://fc@121.248.103.50:29418/mryt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\fc\IdeaProjects" />
+    <option name="cloneParentDir" value="D:\IDEA" />
   </component>
 </application>
