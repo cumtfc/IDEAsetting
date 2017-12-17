@@ -8,4 +8,9 @@
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
 </code_scheme>
