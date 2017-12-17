@@ -5,6 +5,9 @@
   <JSON>
     <option name="KEEP_TRAILING_COMMA" value="true" />
   </JSON>
+  <TypeScriptCodeStyleSettings>
+    <option name="OBJECT_LITERAL_WRAP" value="1" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
