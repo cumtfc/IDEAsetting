@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/yinchuandong/JavaVerify.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://fc@115.159.213.199:29418/aqscfxgl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
