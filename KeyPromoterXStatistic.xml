@@ -25,6 +25,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remove Configuration">
+        <Item>
+          <IdeaActionID>RunDashboard.RemoveConfiguration</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove Configuration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun">
+        <Item>
+          <IdeaActionID>RunDashboard.Run</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Rerun</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
@@ -38,7 +54,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ServiceHiApplication'">
@@ -46,6 +62,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ServiceHiApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ServiceRibbonApplicationTests.testFeign'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ServiceRibbonApplicationTests.testFeign'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -70,7 +94,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -78,7 +102,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
