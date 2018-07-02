@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>22</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -127,6 +127,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ServiceRibbonApplicationTests.testFeign'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ServiceZuulApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ServiceZuulApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
