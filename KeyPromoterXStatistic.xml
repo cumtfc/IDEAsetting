@@ -86,7 +86,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>40</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ServiceRibbonApplicationTests.testFeign'">
@@ -142,7 +142,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>65</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ConfigServerApplication'">
