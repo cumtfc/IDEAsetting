@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="b03132bd-c165-45f3-bcff-a386192eefad" name="cumtfc">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
     <option name="CLONE_GIT_USING_SSH" value="true" />
