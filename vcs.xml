@@ -10,6 +10,10 @@
           <option name="url" value="http://git.yx.netease.com" />
           <option name="userName" value="fengchu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.yx.netease.com:yxsc/yanxuan-tickets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
