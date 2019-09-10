@@ -22,6 +22,10 @@
           <option name="url" value="git@git.yx.netease.com:datapi/nvwa.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.yx.netease.com:stat/hive-udf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
