@@ -30,6 +30,10 @@
           <option name="url" value="git@git.yx.netease.com:datapi/dmap.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@g.hz.netease.com:22222/bigdata/easy-design.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\fc751\My Documents" />
