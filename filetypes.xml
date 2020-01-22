@@ -4,10 +4,10 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="data" type="PLAIN_TEXT" />
-      <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="seqldaCol.sh" type="PLAIN_TEXT" />
       <mapping pattern="ng" type="PLAIN_TEXT" />
       <mapping pattern="ssr" type="PLAIN_TEXT" />
+      <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="ics" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
